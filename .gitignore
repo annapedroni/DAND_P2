@@ -1,3 +1,5 @@
 *.pdf
 *.csv
 *.docx
+.ipynb_checkpoints/
+debug.log
