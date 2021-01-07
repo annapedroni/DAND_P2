@@ -1,5 +1,18 @@
-# DAND_P2
+# Project: Investigate the FBI Gun Data
 Second project for the Data Analyst Nanodegree
+
+## Content of the Jupyter Notebook
+
+- Introduction
+- Data Wrangling
+  - Gun Data Exploration
+  - Census Data Exploration
+- Exploratory Data Analysis
+  - RQ1: Request for handguns vs long guns has changed over time?
+  - RQ2: Are there differences in handgun and long gun requests per capita among States?
+  - RQ3: Do the different percentages across States have a correlation with demographic data such as population density, education or income?
+- Conclusions
+- Notes
 
 ## Requirements
 Python 3, Numpy, Pandas, Matplotlib.pyplot
